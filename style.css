@@ -1,0 +1,40 @@
+.resnav {
+    background-color:none;
+    overflow: hidden;
+    
+
+  }
+  
+  .resnav a {
+    float:right;
+    color: #ebf3f0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  h1{
+  text-align: center;
+  color: #ebf3f0;
+  }
+  p{
+    font-style: italic;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color:aliceblue;
+    text-align: center;
+    text-indent: 0in;
+  }
+  
+ 
+  .resnav a:hover {
+    background-color:none;
+    color: black;
+  }
+  
+
+  .resnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
